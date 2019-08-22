@@ -1,0 +1,11 @@
+#main{
+    /*Largura maxima da div*/
+    max-width: 1080px;
+    /* Centraliza a div main em relação ao body*/
+    margin: 0 auto;
+}
+
+img{
+    max-width: 100%;
+}
+
